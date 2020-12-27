@@ -1,0 +1,10 @@
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\bin\Debug\Sınav Notu Hesaplama.exe.config
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\bin\Debug\Sınav Notu Hesaplama.exe
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\bin\Debug\Sınav Notu Hesaplama.pdb
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav Notu Hesaplama.csprojAssemblyReference.cache
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav_Notu_Hesaplama.Form1.resources
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav_Notu_Hesaplama.Properties.Resources.resources
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav Notu Hesaplama.csproj.GenerateResource.cache
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav Notu Hesaplama.csproj.CoreCompileInputs.cache
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav Notu Hesaplama.exe
+O:\Udemy C# Örnekleri\Sınav Notu Hesaplama\Sınav Notu Hesaplama\obj\Debug\Sınav Notu Hesaplama.pdb
